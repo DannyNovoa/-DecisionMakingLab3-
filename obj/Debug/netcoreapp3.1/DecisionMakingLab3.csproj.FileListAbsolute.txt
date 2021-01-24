@@ -1,0 +1,13 @@
+C:\Users\djnov\source\repos\DecisionMakingLab3\bin\Debug\netcoreapp3.1\DecisionMakingLab3.exe
+C:\Users\djnov\source\repos\DecisionMakingLab3\bin\Debug\netcoreapp3.1\DecisionMakingLab3.deps.json
+C:\Users\djnov\source\repos\DecisionMakingLab3\bin\Debug\netcoreapp3.1\DecisionMakingLab3.runtimeconfig.json
+C:\Users\djnov\source\repos\DecisionMakingLab3\bin\Debug\netcoreapp3.1\DecisionMakingLab3.runtimeconfig.dev.json
+C:\Users\djnov\source\repos\DecisionMakingLab3\bin\Debug\netcoreapp3.1\DecisionMakingLab3.dll
+C:\Users\djnov\source\repos\DecisionMakingLab3\bin\Debug\netcoreapp3.1\DecisionMakingLab3.pdb
+C:\Users\djnov\source\repos\DecisionMakingLab3\obj\Debug\netcoreapp3.1\DecisionMakingLab3.csprojAssemblyReference.cache
+C:\Users\djnov\source\repos\DecisionMakingLab3\obj\Debug\netcoreapp3.1\DecisionMakingLab3.AssemblyInfoInputs.cache
+C:\Users\djnov\source\repos\DecisionMakingLab3\obj\Debug\netcoreapp3.1\DecisionMakingLab3.AssemblyInfo.cs
+C:\Users\djnov\source\repos\DecisionMakingLab3\obj\Debug\netcoreapp3.1\DecisionMakingLab3.csproj.CoreCompileInputs.cache
+C:\Users\djnov\source\repos\DecisionMakingLab3\obj\Debug\netcoreapp3.1\DecisionMakingLab3.dll
+C:\Users\djnov\source\repos\DecisionMakingLab3\obj\Debug\netcoreapp3.1\DecisionMakingLab3.pdb
+C:\Users\djnov\source\repos\DecisionMakingLab3\obj\Debug\netcoreapp3.1\DecisionMakingLab3.genruntimeconfig.cache
